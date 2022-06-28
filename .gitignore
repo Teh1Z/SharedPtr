@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug
+CMakeLists.txt.user
+CMakeLists.txt
+.DS-Store
+build-*
